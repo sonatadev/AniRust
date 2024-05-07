@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Attack on Titan",
+    "ongoing": false,
+    "release_date": {
+      "year": 2013,
+      "month": "April"
+    },
+    "nsfw": false
+  },
+  {
+    "title": "Death Note",
+    "ongoing": false,
+    "release_date": {
+      "year": 2006,
+      "month": "October"
+    },
+    "nsfw": false
+  },
+  {
+    "title": "Naruto",
+    "ongoing": false,
+    "release_date": {
+      "year": 2002,
+      "month": "October"
+    },
+    "nsfw": false
+  },
+  {
+    "title": "One Piece",
+    "ongoing": true,
+    "release_date": {
+      "year": 1999,
+      "month": "October"
+    },
+    "nsfw": false
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "ongoing": false,
+    "release_date": {
+      "year": 2009,
+      "month": "April"
+    },
+    "nsfw": false
+  },
+  {
+    "title": "Dragon Ball Z",
+    "ongoing": false,
+    "release_date": {
+      "year": 1989,
+      "month": "April"
+    },
+    "nsfw": false
+  },
+  {
+    "title": "My Hero Academia",
+    "ongoing": true,
+    "release_date": {
+      "year": 2016,
+      "month": "April"
+    },
+    "nsfw": false
+  },
+  {
+    "title": "Cowboy Bebop",
+    "ongoing": false,
+    "release_date": {
+      "year": 1998,
+      "month": "April"
+    },
+    "nsfw": true
+  },
+  {
+    "title": "Neon Genesis Evangelion",
+    "ongoing": false,
+    "release_date": {
+      "year": 1995,
+      "month": "October"
+    },
+    "nsfw": true
+  },
+  {
+    "title": "High School DxD",
+    "ongoing": false,
+    "release_date": {
+      "year": 2012,
+      "month": "January"
+    },
+    "nsfw": true
+  },
+  {
+    "title": "Prison School",
+    "ongoing": false,
+    "release_date": {
+      "year": 2015,
+      "month": "July"
+    },
+    "nsfw": true
+  }
+]
