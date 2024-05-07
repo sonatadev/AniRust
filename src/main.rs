@@ -1,5 +1,4 @@
-extern crate serde;
-extern crate serde_json;
+
 
 use serde::{Deserialize, Serialize};
 use std::fs::File;
@@ -14,6 +13,7 @@ struct AnimeData {
     release_date : AnimeReleaseDate,
     nsfw : bool
 }
+
 #[derive(Debug, Deserialize)]
 struct AnimeReleaseDate {
     year : i32,
