@@ -1,6 +1,4 @@
-
-
-use serde::{Deserialize, Serialize};
+use serde::Deserialize;
 use std::fs::File;
 use std::io::*;
 use std::io;
@@ -38,7 +36,7 @@ fn main(){
     println!();
 
     for anime in anime_catalogue {
-        if(anime.title.trim().to_lowercase() == anime_search.trim().to_lowercase()){
+        if anime.title.to_lowercase().trim().to_lowercase() == anime_search.trim().to_lowercase(){
             println!("Title: {}", anime.title);
             println!("Release Date: {} {}", anime.release_date.month, anime.release_date.year);
             println!("Ongoing: {}", anime.ongoing);
